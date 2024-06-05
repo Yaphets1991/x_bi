@@ -1,4 +1,3 @@
-# X_bi
 智能bi项目
 # 流程图
 ![流程图](https://github.com/Yaphets1991/X_bi/assets/73348335/935c80ef-355d-4a6c-8400-e23ed6dc53ac)
